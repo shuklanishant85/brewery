@@ -1,6 +1,5 @@
 package com.genesis.brewery.web.controller;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
 import com.genesis.brewery.services.BeerService;
 import com.genesis.brewery.web.model.BeerDTO;
 import org.junit.Before;
